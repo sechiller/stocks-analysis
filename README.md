@@ -9,11 +9,11 @@ Module 2
 ## Results
 
 ### Comparison of Stock Performance
-2017
+The stock performance in 2017 (shown below) was very positive with many stocks with double and triple digit positive returns. 
 
 ![image](https://user-images.githubusercontent.com/103475613/164956387-db27687c-b825-41f5-b850-c67eb170d392.png)
 
-2018
+he stock performance in 2018 (shown below) was less positive with many stocks with double digit losses. 
 
  ![image](https://user-images.githubusercontent.com/103475613/164956398-cfa38927-90bd-4d26-ab39-9fb1ab2a926e.png)
 
@@ -30,6 +30,6 @@ The execution time for the refactored VBA code was 0.9140625 seconds for 2017 an
 
 - How do these pros and cons apply to refactoring the original VBA script?
 
- 
+  The original code was more straightforward but had limitations in the number of tickers it could run through and, potenrially, the amount of time it took to run. The refactored code is faster and more flexible, but introduced a new variable that needs to be defined. 
 
  
